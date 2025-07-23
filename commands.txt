@@ -8,6 +8,12 @@ npx create-vite@latest projectname
 
 npm run build 
 
+#create .gitignore file 
+.env
+
+# use environment variables 
+
+npm install dotenv
 
 # BUILD A BACKEND PROJECT
 
