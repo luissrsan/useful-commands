@@ -1,0 +1,17 @@
+
+
+#BUILD A FRONTEND VITE REACT PROJECT 
+npx create-vite@latest projectname
+
+
+#BUILD A PRODUCTION BUILD FROM A VITE BUILD 
+
+npm run build 
+
+
+# BUILD A BACKEND PROJECT
+
+npm init 
+npm install express
+
+npm install pg 
